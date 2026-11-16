@@ -1,0 +1,2 @@
+python -m pip install pandas numpy openpyxl scikit-learn xgboost joblib IPython
+python train_xgb_chl.py
